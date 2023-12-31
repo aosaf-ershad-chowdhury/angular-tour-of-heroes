@@ -1,6 +1,6 @@
 # AngularTourOfHeroes
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.8.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.8. It was made after going through the second tutorial (Tour of Heroes) provided officially by Angular's Documentation 
 
 ## Development server
 
